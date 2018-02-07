@@ -1,0 +1,26 @@
+body {
+  background: red;
+}
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Roboto+Slab');
+h1 {
+  font-family: "PT Serif";
+  font-size: 3rem;
+  border-color: black;
+  border-width: 0.5rem;
+  border-style: solid;
+}
+h2 {
+  font-family: "Roboto Slab";
+  font-style: solid;
+}
+p {
+  font-family: "PT Serif";
+  font-size: 1rem;
+}
+footer {
+  font-family: "PT Serif";
+
+}
+img {
+  border-style: groove;
+}

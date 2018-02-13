@@ -1,0 +1,62 @@
+body {
+  background: red;
+}
+@import url('https://fonts.googleapis.com/css?family=PT+Serif|Roboto+Slab');
+h1 {
+  font-family: "PT Serif";
+  font-size: 3rem;
+  border-color: black;
+  border-width: 0.5rem;
+  border-style: solid;
+  background-color: yellow;
+}
+h2 {
+  font-family: "Roboto Slab";
+  font-style: solid;
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+p {
+  font-family: "PT Serif";
+  font-size: 1rem;
+  display: block;
+  margin: 0 auto;
+  padding: 1%;
+  border-style: solid;
+  border-color: black;
+  border-width: 0.5rem;
+  background-color: yellow;
+}
+footer {
+  font-family: "PT Serif";
+  border-style: solid;
+  border-color: black;
+  margin: 0 auto;
+  padding: 1%;
+  background-color: yellow;
+  border-width: 0.5rem;
+  font-size: 1rem;
+
+}
+img {
+  border-style: solid;
+  border-color: black;
+  border-width: 0.3rem;
+  width: 37rem;
+  height: 30rem;
+}
+
+div {
+  font-size: 3rem;
+}
+li {
+  font-size: 1.5rem;
+}
+a {
+  font-size: 1.5rem;
+}
+div {
+  background-image: url(http://2.bp.blogspot.com/-fyno0zsYo5A/Vkf9Xe9d-7I/AAAAAAAE6Ic/Zxs0T-UwLAM/s16000/0003-026.jpg);
+  background-attachment: fixed;
+}
